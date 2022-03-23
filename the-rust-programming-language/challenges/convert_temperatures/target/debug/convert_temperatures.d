@@ -1,0 +1,1 @@
+/home/rafael/dev/rust-studies/the-rust-programming-language/challenges/convert_temperatures/target/debug/convert_temperatures: /home/rafael/dev/rust-studies/the-rust-programming-language/challenges/convert_temperatures/src/main.rs
